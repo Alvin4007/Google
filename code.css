@@ -1,0 +1,80 @@
+.goog{
+    margin-top:100px ;
+    padding-left:630px ;
+    image width: 60px;
+}
+body {
+    background: #d1d5db
+}
+
+.height {
+    height: 20vh
+}
+
+.form {
+    position: relative;
+    width: 600px;
+    margin-left: 100px;
+}
+
+.fa-search {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: #9ca3af
+    
+
+}
+
+.form span {
+    position:absolute;
+    right: 17px;
+    top: 13px;
+    border-left: 1px solid #d1d5db
+}
+
+.left-pan {
+    padding-left: 7px
+}
+
+.left-pan i {
+    padding-left: 10px
+}
+
+.form-input {
+    height: 55px;
+    text-indent: 33px;
+    border-radius: 10px
+}
+
+.form-input:focus {
+    box-shadow: none;
+    border: none
+}
+.bton1{
+    background-color: white;
+    padding-left: 5px;
+    padding-top: 0px;
+    vertical-align: middle;
+    margin-left: 600px;
+    border-width: 0cm;
+    size: 20px;
+}
+.bton2{
+    background-color:white;
+    padding-left: 5px;
+    padding-top: 0px;
+    vertical-align: middle;
+    margin-left: 60px;
+    border-width: 0cm;
+}
+.notice{
+    padding-left: 500px;
+    padding-top: 20px;
+}
+.notice1{
+    padding-left: 500px;
+    padding-top: 20px;
+    
+}
+    
